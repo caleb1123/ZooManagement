@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Repository
 {
-    internal class AccountRepository
+    public class AccountRepository : IAccountRepository
     {
+
     }
 }
