@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\Repository\\Repository.csproj": {}
+    "D:\\5\\PRN211\\Zoo\\Z\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\BusinessLayer\\BusinessLayer.csproj": {
+    "D:\\5\\PRN211\\Zoo\\Z\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "D:\\5\\PRN211\\Zoo\\Z\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\BusinessLayer\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\ryy15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\BusinessLayer\\obj\\",
+        "projectPath": "D:\\5\\PRN211\\Zoo\\Z\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\5\\PRN211\\Zoo\\Z\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ryy15\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,30 +66,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\DataAccess\\DataAccess.csproj": {
+    "D:\\5\\PRN211\\Zoo\\Z\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\5\\PRN211\\Zoo\\Z\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\ryy15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\DataAccess\\obj\\",
+        "projectPath": "D:\\5\\PRN211\\Zoo\\Z\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\5\\PRN211\\Zoo\\Z\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ryy15\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\BusinessLayer\\BusinessLayer.csproj"
+              "D:\\5\\PRN211\\Zoo\\Z\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "D:\\5\\PRN211\\Zoo\\Z\\BusinessLayer\\BusinessLayer.csproj"
               }
             }
           }
@@ -133,30 +139,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\Repository\\Repository.csproj": {
+    "D:\\5\\PRN211\\Zoo\\Z\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\5\\PRN211\\Zoo\\Z\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\ryy15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\Repository\\obj\\",
+        "projectPath": "D:\\5\\PRN211\\Zoo\\Z\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\5\\PRN211\\Zoo\\Z\\Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ryy15\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,11 +186,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\BusinessLayer\\BusinessLayer.csproj"
+              "D:\\5\\PRN211\\Zoo\\Z\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "D:\\5\\PRN211\\Zoo\\Z\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ryy15\\OneDrive\\Documents\\C#\\Zoo\\DataAccess\\DataAccess.csproj"
+              "D:\\5\\PRN211\\Zoo\\Z\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\5\\PRN211\\Zoo\\Z\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -199,12 +215,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
